@@ -17,6 +17,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	git log --graph --oneline command help you to visualize the branch structure of the git repositories
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
