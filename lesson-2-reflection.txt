@@ -22,5 +22,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	after mergeing two branch togather all the functionality are added to the checkout branch. we can merge any branch to master branch using command "git checkout master" after that "git merge branch_name"
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
