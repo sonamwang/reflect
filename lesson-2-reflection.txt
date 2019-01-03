@@ -1,6 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
+	
+	staging area is teporay area where you get to choose which file you want to make change. when commit only file in the staging area get commited. we can use "git add" command to add file to staging area.
+
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
