@@ -26,3 +26,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	merging automatically need serious knowlege base regarding which code to include in final merged file. so git use confict resolution to resolve by asking user to choose the code whcih should appear in the final code
