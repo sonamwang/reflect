@@ -1,1 +1,6 @@
 when would like to create a remote repository rather than keeping all your work locally?
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	we always don't want to pull all the functionality of other developer, so we get choose which branch need to pull in the local repository using command "git pull name_of_remote_repo name_of_remote_branch"
