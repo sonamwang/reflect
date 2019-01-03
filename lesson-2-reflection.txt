@@ -9,6 +9,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	staging area is a temporay where you can test, to check whether logical changes have done or not we use command "git diff --staged" which show the difference between to most recent commit and the staging area.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
